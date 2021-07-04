@@ -1,1 +1,1 @@
-# Smart-Attendance-suoervising-system-based-on-face-recognition
+# Smart-Attendance-supervising-system-based-on-face-recognition
